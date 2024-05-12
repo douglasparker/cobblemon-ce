@@ -1,13 +1,13 @@
 name = "Queen Cats & Dogs"
-filename = "queen-cats-1.0.6-1.20.1-Fabric.jar"
+filename = "queen-cats-1.0.6-1.20.2-Fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/ajTHC1q6/versions/dKBhrjP9/queen-cats-1.0.6-1.20.1-Fabric.jar"
+url = "https://cdn.modrinth.com/data/ajTHC1q6/versions/xIjhOb50/queen-cats-1.0.6-1.20.2-Fabric.jar"
 hash-format = "sha1"
-hash = "2c607e84ec6d97da4233c0376f204cebc8c9f7de"
+hash = "e6ba9ca97b06af8d15dbad6c699f57c748828d0d"
 
 [update]
 [update.modrinth]
 mod-id = "ajTHC1q6"
-version = "dKBhrjP9"
+version = "xIjhOb50"
