@@ -47,7 +47,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-third-person.pw.toml"
-hash = "1f836198a01aabd4a476d068f934d2c96cd5b5a78cf6facd237876b81a5c4636"
+hash = "9c44cf229440021ac7c42cd265fcec944fb002e2264c61688dfc21546bdaed5d"
 metafile = true
 
 [[files]]
@@ -77,7 +77,7 @@ metafile = true
 
 [[files]]
 file = "mods/cave-dust.pw.toml"
-hash = "b7840f517e86b3c255c352d2b7bf76452554c540c21769f4781cfdb62e7efbe9"
+hash = "31274861cb2f560e5f4a7bb3c1d51b727d885686ce6cc03cca4c861fdc48caf8"
 metafile = true
 
 [[files]]
@@ -157,7 +157,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "7275eef48f9f640dd888913ad8d44bf0ed1752ea6e71c8b6eaf73d3af58bfc34"
+hash = "ee965d6f2e0a9cdc31139b0d8a3367eb8db031065a03142534652573626e9787"
 metafile = true
 
 [[files]]
@@ -227,7 +227,7 @@ metafile = true
 
 [[files]]
 file = "mods/highlight.pw.toml"
-hash = "ed4d1e3eae3a95320b8f9b55594b1f0dc097740b35485b73056e7d95cef1bcfd"
+hash = "17e0130bc29e14dd26019d0f0ccef1fab6f8dc7ab2a5ea60a6c734cae127d741"
 metafile = true
 
 [[files]]
@@ -262,7 +262,7 @@ metafile = true
 
 [[files]]
 file = "mods/item-highlighter.pw.toml"
-hash = "1bc74743327f85844df73f45f973fb5b394cd4abfef2ee8d0ca6383fc0d92c0b"
+hash = "d2fb9aba12d1c0bafcde37bc71ca679d10630386b01f235ea7ed651093c2905f"
 metafile = true
 
 [[files]]
@@ -357,7 +357,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "810e2657ec30e1e79b5cafc5c8b5e15fa03194747cbf9a31f47ffc95770c4c9d"
+hash = "c737bdfd6940736f88cd39065a0193ba70637a560fbce4389e59f67d72813209"
 metafile = true
 
 [[files]]
@@ -373,6 +373,11 @@ metafile = true
 [[files]]
 file = "mods/rei.pw.toml"
 hash = "96ac62339353594e03beb2e86eaa3e42c9356f84a5ef5856f330e19e0c4982db"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "ed3cf45b08dcd6ba3259a7adcc1940fbccfbf4ade1da616d3c4244f17c7f74b2"
 metafile = true
 
 [[files]]
@@ -457,7 +462,7 @@ metafile = true
 
 [[files]]
 file = "mods/wavey-capes.pw.toml"
-hash = "784b9259ec40d61d24c21cd5db9580cf856594f9185cd57527e72a414d54b129"
+hash = "92f3c1d5f4b6f8376f16518979bbfe063a302af04194183d0165509c989abfc0"
 metafile = true
 
 [[files]]
