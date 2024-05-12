@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "6a30ada95dab80343f96ae18ac809081d55b850c66fd7dec247d11a23b9e6640"
+hash = "1a51d32de85adde4026f270dc558feda4aabf173a678f1a97dd0f59e337e81a8"
 
 [[files]]
 file = "mods/advancementinfo.pw.toml"
