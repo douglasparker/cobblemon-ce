@@ -20,5 +20,4 @@ Cobblemon Modpack Version: 1.5
 - https://modrinth.com/mod/ironchests/version/gioHN8Aw
 - https://modrinth.com/mod/travelersbackpack
 - https://modrinth.com/mod/treechop
-- https://modrinth.com/mod/queen-cats-dogs
 - https://modrinth.com/mod/carry-on

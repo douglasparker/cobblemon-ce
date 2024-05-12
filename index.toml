@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "README.md"
-hash = "1a51d32de85adde4026f270dc558feda4aabf173a678f1a97dd0f59e337e81a8"
-
-[[files]]
 file = "mods/advancementinfo.pw.toml"
 hash = "3475ed31cc03e95979ed05849015a59a38e286c86093c58d41013f3d945f72fe"
 metafile = true
@@ -367,11 +363,6 @@ metafile = true
 [[files]]
 file = "mods/presence-footsteps.pw.toml"
 hash = "74058d27cf4f2eaa273b7e3e7068e573a196d12116d2290c9088cdb5895c3aa8"
-metafile = true
-
-[[files]]
-file = "mods/queen-cats-dogs.pw.toml"
-hash = "3b4933160fba3ecd56cb17d89a051bc8b99fbb6717305b38e12adbfe783cf555"
 metafile = true
 
 [[files]]
