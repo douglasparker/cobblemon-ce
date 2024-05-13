@@ -366,6 +366,11 @@ hash = "74058d27cf4f2eaa273b7e3e7068e573a196d12116d2290c9088cdb5895c3aa8"
 metafile = true
 
 [[files]]
+file = "mods/queen-cats-dogs.pw.toml"
+hash = "118b671c423e7892dd146b1b12d8bed4ddfbd84c6123d24ddbd9838ec55a0626"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "0f9916dcded3aac68d56113e9617bbe3db5ec9036bd9bba784bc40a961b0c9f0"
 metafile = true
