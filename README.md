@@ -42,6 +42,8 @@
 - https://modrinth.com/mod/create-diesel-generators-fabric
 - https://modrinth.com/mod/estrogen
 - https://modrinth.com/mod/enchanting-infuser
+- https://www.modrinth.com/mod/cadmus
+- https://www.modrinth.com/mod/waystones
 
 
 
