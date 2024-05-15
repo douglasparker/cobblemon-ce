@@ -27,7 +27,6 @@
 - https://modrinth.com/mod/create-fabric
 - https://modrinth.com/mod/create-steam-n-rails
 - https://modrinth.com/mod/createaddition
-- https://modrinth.com/mod/slice-and-dice
 - https://modrinth.com/mod/create-goggles
 - https://modrinth.com/datapack/create-structures
 - https://modrinth.com/mod/create-enchantment-industry-fabric
@@ -39,7 +38,6 @@
 - https://modrinth.com/mod/extended-cogwheels
 - https://modrinth.com/mod/copycats
 - https://modrinth.com/mod/interiors
-- https://modrinth.com/mod/interactive
 - https://modrinth.com/mod/create-dreams-and-desires
 - https://modrinth.com/mod/create-diesel-generators-fabric
 - https://modrinth.com/mod/estrogen
