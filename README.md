@@ -1,4 +1,4 @@
-# Cobblemon
+# Cobblemon: Create Edition
 
 - Minecraft Version: 1.20.1
 - Fabric Version: 0.15.11
@@ -23,3 +23,30 @@
 - https://modrinth.com/mod/carry-on
 - https://modrinth.com/mod/queen-cats-dogs
 - https://modrinth.com/mod/inventory-management
+- https://modrinth.com/mod/argonauts
+- https://modrinth.com/mod/create-fabric
+- https://modrinth.com/mod/create-steam-n-rails
+- https://modrinth.com/mod/createaddition
+- https://modrinth.com/mod/slice-and-dice
+- https://modrinth.com/mod/create-goggles
+- https://modrinth.com/datapack/create-structures
+- https://modrinth.com/mod/create-enchantment-industry-fabric
+- https://modrinth.com/mod/create-big-cannons
+- https://modrinth.com/mod/create-deco
+- https://modrinth.com/mod/create-jetpack
+- https://modrinth.com/mod/create-ore-excavation
+- https://modrinth.com/mod/bellsandwhistles
+- https://modrinth.com/mod/extended-cogwheels
+- https://modrinth.com/mod/copycats
+- https://modrinth.com/mod/interiors
+- https://modrinth.com/mod/interactive
+- https://modrinth.com/mod/create-dreams-and-desires
+- https://modrinth.com/mod/create-diesel-generators-fabric
+- https://modrinth.com/mod/estrogen
+- https://modrinth.com/mod/enchanting-infuser
+
+
+
+## Resource packs
+- https://modrinth.com/resourcepack/e19_cobblemon_minimap_icons
+- https://modrinth.com/resourcepack/cobblemon-interface

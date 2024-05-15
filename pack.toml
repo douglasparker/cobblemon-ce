@@ -1,12 +1,12 @@
-name = "Cobblemon"
+name = "Cobblemon Create Edition"
 author = "Neureka"
-version = "1.5.0"
+version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "99c84825c452ccfed7707b25dcb6bddc4c6c39a47056b59e8b0290285ec72209"
+hash = "8236bcff951610000d21ecfc63530dd68851d9283216df21ec6c869a0ac51115"
 
 [versions]
 fabric = "0.15.10"
