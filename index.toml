@@ -6,6 +6,11 @@ hash = "3475ed31cc03e95979ed05849015a59a38e286c86093c58d41013f3d945f72fe"
 metafile = true
 
 [[files]]
+file = "mods/animated-doors.pw.toml"
+hash = "a8ce03e6f782db68a453fa0d7e8d8ef3d30d4d184fa0ce030843709ea43d573f"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "e3dfb2478e6bb096667d4ec89b0ddfef627747939373bdefee02f358d6e3dee1"
 metafile = true
@@ -678,6 +683,11 @@ metafile = true
 [[files]]
 file = "mods/zoomify.pw.toml"
 hash = "0dfc437b6a74265d48e4b563dde1ddecf40c202a73f963d6a94bd27a552ac0dd"
+metafile = true
+
+[[files]]
+file = "resourcepacks/animated-door.pw.toml"
+hash = "f2001d92a8912afbad921060bbf4a511c89245ef6b6683fc53c5abe3db8c06ae"
 metafile = true
 
 [[files]]
